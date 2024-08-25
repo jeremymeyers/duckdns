@@ -23,7 +23,7 @@ duckdns [<api_token>] {
 
 ## Config examples
 
-To use this module for the ACME DNS challenge, [configure the ACME issuer in your Caddy JSON](https://caddyserver.com/docs/json/apps/tls/automation/policies/issuer/acme/) like so:
+To use this module for the ACME DNS challenge, [configure the ACME issuer in your Caddy JSON](https://caddy.community/t/how-to-use-dns-provider-modules-in-caddy-2/8148) like so:
 
 ```json
 {
